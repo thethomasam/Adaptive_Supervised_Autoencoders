@@ -1,6 +1,10 @@
 # Adaptive Weighted Supervised Autoencoder
 This project contains the code for an adaptive weighted supervised autoencoder. The purpose of this autoencoder is to learn a low-dimensional representation of input data while also predicting a set of target variables. The weighting of the loss function is dynamically updated during training to ensure that both the reconstruction loss and the regression loss are given appropriate consideration.
 
+
+![alt text]([http://url/to/img.png](https://pawsey.org.au/wp-content/uploads/2023/02/Sam-Koshy-Thomas-My-project-9-scaled.jpg))
+
+
 ### Requirements
 This code requires Python 3.6 or later. Additionally, the following Python libraries are required:
 
